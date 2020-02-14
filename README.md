@@ -8,5 +8,5 @@ The purpose of this code was to see how many strides a person would take to obta
 pressure based on using a low profile piston cylinder.
 
 
-The pyhton folder contains a script and text file. When the program is run the user will be prompted to enter the text file.
+The python folder contains a script and text file. When the program is run the user will be prompted to enter the text file.
 The program simulates a vending machine and the amount of money a person has left to spend.
